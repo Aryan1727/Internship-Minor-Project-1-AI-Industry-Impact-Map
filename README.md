@@ -108,3 +108,8 @@ AI can create value through prediction, personalization, automation and decision
 - [Amazon — Generative AI for recommendations and descriptions](https://www.aboutamazon.com/news/retail/amazon-generative-ai-product-search-results-and-descriptions)
 - [Khan Academy — Annual Report SY24–25](https://annualreport.khanacademy.org/)
 - [WHO — AI and health resources](https://www.who.int/teams/digital-health-and-innovation/harnessing-artificial-intelligence-for-health)
+
+## Use AI Tool For Deep Research
+- Chat GPT
+- Gemini
+- Deepseek
